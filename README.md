@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2019-06-13 18:59:14
+Update time:  2019-06-17 15:31:13
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **25   /   1023** problems
-while there are **153** problems still locked.
+I have solved **26   /   1031** problems
+while there are **157** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -197,7 +197,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |189|[rotate-array](https://leetcode.com/problems/rotate-array)|[Javascript](https://github.com/agileup/leetcode/blob/master/solutions/0189-rotate-array/rotate-array.js)|[:memo:](https://leetcode.com/articles/rotate-array/)|Easy|
 |190|[reverse-bits](https://leetcode.com/problems/reverse-bits)|||Easy|
 |191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits)||[:memo:](https://leetcode.com/articles/number-1-bits/)|Easy|
-|198|[house-robber](https://leetcode.com/problems/house-robber)||[:memo:](https://leetcode.com/articles/house-robber/)|Easy|
+|198|[house-robber](https://leetcode.com/problems/house-robber)|[Javascript](https://github.com/agileup/leetcode/blob/master/solutions/0198-house-robber/house-robber.js)|[:memo:](https://leetcode.com/articles/house-robber/)|Easy|
 |199|[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view)||[:memo:](https://leetcode.com/articles/binary-tree-right-side-view/)|Medium|
 |200|[number-of-islands](https://leetcode.com/problems/number-of-islands)||[:memo:](https://leetcode.com/articles/number-of-islands/)|Medium|
 |201|[bitwise-and-of-numbers-range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|||Medium|
@@ -490,7 +490,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |499|[the-maze-iii](https://leetcode.com/problems/the-maze-iii)|:lock:||Hard|
 |500|[keyboard-row](https://leetcode.com/problems/keyboard-row)|||Easy|
 |501|[find-mode-in-binary-search-tree](https://leetcode.com/problems/find-mode-in-binary-search-tree)|||Easy|
-|502|[ipo](https://leetcode.com/problems/ipo)|||Hard|
+|502|[ipo](https://leetcode.com/problems/ipo)||[:memo:](https://leetcode.com/articles/ipo/)|Hard|
 |503|[next-greater-element-ii](https://leetcode.com/problems/next-greater-element-ii)||[:memo:](https://leetcode.com/articles/next-greater-element-ii/)|Medium|
 |504|[base-7](https://leetcode.com/problems/base-7)|||Easy|
 |505|[the-maze-ii](https://leetcode.com/problems/the-maze-ii)|:lock:|[:memo:](https://leetcode.com/articles/the-maze-ii/)|Medium|
@@ -708,7 +708,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |769|[largest-plus-sign](https://leetcode.com/problems/largest-plus-sign)||[:memo:](https://leetcode.com/articles/largest-plus-sign/)|Medium|
 |770|[couples-holding-hands](https://leetcode.com/problems/couples-holding-hands)||[:memo:](https://leetcode.com/articles/couples-holding-hands/)|Hard|
 |771|[encode-n-ary-tree-to-binary-tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree)|:lock:||Hard|
-|772|[construct-quad-tree](https://leetcode.com/problems/construct-quad-tree)|||Easy|
+|772|[construct-quad-tree](https://leetcode.com/problems/construct-quad-tree)|||Medium|
 |773|[quad-tree-intersection](https://leetcode.com/problems/quad-tree-intersection)|||Easy|
 |774|[maximum-depth-of-n-ary-tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)||[:memo:](https://leetcode.com/articles/maximum-depth-of-n-ary-tree/)|Easy|
 |775|[n-ary-tree-preorder-traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/n-ary-tree-preorder-traversal/)|Easy|
@@ -998,11 +998,15 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1071|[binary-prefix-divisible-by-5](https://leetcode.com/problems/binary-prefix-divisible-by-5)|||Easy|
 |1072|[next-greater-node-in-linked-list](https://leetcode.com/problems/next-greater-node-in-linked-list)|||Medium|
 |1073|[number-of-enclaves](https://leetcode.com/problems/number-of-enclaves)|||Medium|
+|1074|[high-five](https://leetcode.com/problems/high-five)|:lock:||Easy|
 |1075|[index-pairs-of-a-string](https://leetcode.com/problems/index-pairs-of-a-string)|:lock:||Easy|
+|1076|[brace-expansion](https://leetcode.com/problems/brace-expansion)|:lock:||Medium|
+|1077|[confusing-number-ii](https://leetcode.com/problems/confusing-number-ii)|:lock:||Hard|
 |1078|[remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|||Easy|
 |1079|[sum-of-root-to-leaf-binary-numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|||Easy|
 |1080|[camelcase-matching](https://leetcode.com/problems/camelcase-matching)|||Medium|
 |1081|[video-stitching](https://leetcode.com/problems/video-stitching)|||Medium|
+|1082|[sum-of-digits-in-the-minimum-number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number)|:lock:||Easy|
 |1086|[divisor-game](https://leetcode.com/problems/divisor-game)|||Easy|
 |1087|[longest-arithmetic-sequence](https://leetcode.com/problems/longest-arithmetic-sequence)|||Medium|
 |1092|[maximum-difference-between-node-and-ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)|||Medium|
@@ -1039,3 +1043,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1157|[insufficient-nodes-in-root-to-leaf-paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths)|||Medium|
 |1159|[smallest-subsequence-of-distinct-characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters)|||Medium|
 |1160|[letter-tile-possibilities](https://leetcode.com/problems/letter-tile-possibilities)|||Medium|
+|1168|[duplicate-zeros](https://leetcode.com/problems/duplicate-zeros)|||Easy|
+|1169|[largest-values-from-labels](https://leetcode.com/problems/largest-values-from-labels)|||Medium|
+|1170|[shortest-common-supersequence](https://leetcode.com/problems/shortest-common-supersequence)|||Hard|
+|1171|[shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)|||Medium|
