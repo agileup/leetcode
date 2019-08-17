@@ -29,18 +29,45 @@
  * @return {boolean}
  */
 var isPalindrome = function(head) {
-    let count = 0;
-    let arr = [];
-    while (head) {
-        count++;
-        arr.push(head.val);
-        head = head.next;
+//     let count = 0;
+//     let arr = [];
+//     while (head) {
+//         count++;
+//         arr.push(head.val);
+//         head = head.next;
+//     }
+//     if (count === 1) return true;
+//     let half = arr.splice(0, count/2).reverse();
+//     if (count % 2 !== 0) arr.shift();
+//     return arr.join('') === half.join('');
+    
+    if (!head || !head.next) return true;
+    
+    let fast, slow;
+    fast = slow = head;
+    while (fast && fast.next) {
+        fast = fast.next.next;
+        slow = slow.next;
+    }
+
+    if (fast) slow = slow.next;
+
+    let rev = null, temp = null;
+    while (slow) {
+        temp = slow.next;
+        slow.next = rev;
+        rev = slow;
+        slow = temp;
     }
     
-    if (count === 1) return true;
+    let result = true;
+    while (rev) {
+        result = rev.val == head.val;
+        if (!result) break;
+        
+        head = head.next;
+        rev = rev.next;
+    }
     
-    let half = arr.splice(0, count/2).reverse();
-    if (count % 2 !== 0) arr.shift();
-    
-    return arr.join('') === half.join('');
+    return result;
 };
