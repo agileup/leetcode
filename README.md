@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Javascript
-Update time:  2019-08-27 14:30:20
+Update time:  2019-09-24 16:10:51
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **46   /   1092** problems
-while there are **177** problems still locked.
+I have solved **52   /   1116** problems
+while there are **186** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -26,7 +26,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|||Medium|
 |9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Javascript](https://github.com/agileup/leetcode/blob/master/solutions/0009-palindrome-number/palindrome-number.js)|[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)||[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
-|11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)||[:memo:](https://leetcode.com/articles/container-with-most-water/)|Medium|
+|11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)|[Javascript](https://github.com/agileup/leetcode/blob/master/solutions/0011-container-with-most-water/container-with-most-water.js)|[:memo:](https://leetcode.com/articles/container-with-most-water/)|Medium|
 |12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|||Medium|
 |13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|[Javascript](https://github.com/agileup/leetcode/blob/master/solutions/0013-roman-to-integer/roman-to-integer.js)||Easy|
 |14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)|[Javascript](https://github.com/agileup/leetcode/blob/master/solutions/0014-longest-common-prefix/longest-common-prefix.js)|[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
@@ -37,7 +37,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list)||[:memo:](https://leetcode.com/articles/remove-nth-node-from-end-of-list/)|Medium|
 |20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses)|[Javascript](https://github.com/agileup/leetcode/blob/master/solutions/0020-valid-parentheses/valid-parentheses.js)|[:memo:](https://leetcode.com/articles/valid-parentheses/)|Easy|
 |21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Javascript](https://github.com/agileup/leetcode/blob/master/solutions/0021-merge-two-sorted-lists/merge-two-sorted-lists.js)|[:memo:](https://leetcode.com/articles/merged-two-sorted-lists/)|Easy|
-|22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses)||[:memo:](https://leetcode.com/articles/generate-parentheses/)|Medium|
+|22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses)|[Javascript](https://github.com/agileup/leetcode/blob/master/solutions/0022-generate-parentheses/generate-parentheses.js)|[:memo:](https://leetcode.com/articles/generate-parentheses/)|Medium|
 |23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)||[:memo:](https://leetcode.com/articles/merge-k-sorted-list/)|Hard|
 |24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|||Medium|
 |25|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group)|||Hard|
@@ -192,7 +192,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |174|[dungeon-game](https://leetcode.com/problems/dungeon-game)|||Hard|
 |179|[largest-number](https://leetcode.com/problems/largest-number)||[:memo:](https://leetcode.com/articles/largest-number/)|Medium|
 |186|[reverse-words-in-a-string-ii](https://leetcode.com/problems/reverse-words-in-a-string-ii)|:lock:||Medium|
-|187|[repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)|||Medium|
+|187|[repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)||[:memo:](https://leetcode.com/articles/repeated-dna-sequences/)|Medium|
 |188|[best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|||Hard|
 |189|[rotate-array](https://leetcode.com/problems/rotate-array)|[Javascript](https://github.com/agileup/leetcode/blob/master/solutions/0189-rotate-array/rotate-array.js)|[:memo:](https://leetcode.com/articles/rotate-array/)|Easy|
 |190|[reverse-bits](https://leetcode.com/problems/reverse-bits)|||Easy|
@@ -211,7 +211,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |209|[minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum)||[:memo:](https://leetcode.com/articles/minimum-size-subarray-sum/)|Medium|
 |210|[course-schedule-ii](https://leetcode.com/problems/course-schedule-ii)||[:memo:](https://leetcode.com/articles/course-schedule-ii/)|Medium|
 |211|[add-and-search-word-data-structure-design](https://leetcode.com/problems/add-and-search-word-data-structure-design)|||Medium|
-|212|[word-search-ii](https://leetcode.com/problems/word-search-ii)|||Hard|
+|212|[word-search-ii](https://leetcode.com/problems/word-search-ii)||[:memo:](https://leetcode.com/articles/word-search-ii/)|Hard|
 |213|[house-robber-ii](https://leetcode.com/problems/house-robber-ii)|||Medium|
 |214|[shortest-palindrome](https://leetcode.com/problems/shortest-palindrome)||[:memo:](https://leetcode.com/articles/shortest-palindrome/)|Hard|
 |215|[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array)||[:memo:](https://leetcode.com/articles/kth-largest-element-in-an-array/)|Medium|
@@ -340,9 +340,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |339|[nested-list-weight-sum](https://leetcode.com/problems/nested-list-weight-sum)|:lock:|[:memo:](https://leetcode.com/articles/nested-list-weight-sum/)|Easy|
 |340|[longest-substring-with-at-most-k-distinct-characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|:lock:|[:memo:](https://leetcode.com/articles/longest-substring-with-at-most-k-distinct-characte/)|Hard|
 |341|[flatten-nested-list-iterator](https://leetcode.com/problems/flatten-nested-list-iterator)|||Medium|
-|342|[power-of-four](https://leetcode.com/problems/power-of-four)|||Easy|
+|342|[power-of-four](https://leetcode.com/problems/power-of-four)||[:memo:](https://leetcode.com/articles/power-of-four/)|Easy|
 |343|[integer-break](https://leetcode.com/problems/integer-break)|||Medium|
-|344|[reverse-string](https://leetcode.com/problems/reverse-string)|||Easy|
+|344|[reverse-string](https://leetcode.com/problems/reverse-string)|[Javascript](https://github.com/agileup/leetcode/blob/master/solutions/0344-reverse-string/reverse-string.js)||Easy|
 |345|[reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string)|||Easy|
 |346|[moving-average-from-data-stream](https://leetcode.com/problems/moving-average-from-data-stream)|:lock:||Easy|
 |347|[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements)||[:memo:](https://leetcode.com/articles/top-k-frequent-elements/)|Medium|
@@ -366,10 +366,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |365|[water-and-jug-problem](https://leetcode.com/problems/water-and-jug-problem)|||Medium|
 |366|[find-leaves-of-binary-tree](https://leetcode.com/problems/find-leaves-of-binary-tree)|:lock:||Medium|
 |367|[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square)|||Easy|
-|368|[largest-divisible-subset](https://leetcode.com/problems/largest-divisible-subset)|||Medium|
+|368|[largest-divisible-subset](https://leetcode.com/problems/largest-divisible-subset)||[:memo:](https://leetcode.com/articles/largest-divisible-subset/)|Medium|
 |369|[plus-one-linked-list](https://leetcode.com/problems/plus-one-linked-list)|:lock:||Medium|
 |370|[range-addition](https://leetcode.com/problems/range-addition)|:lock:|[:memo:](https://leetcode.com/articles/range-addition/)|Medium|
-|371|[sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers)|||Easy|
+|371|[sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers)|[Javascript](https://github.com/agileup/leetcode/blob/master/solutions/0371-sum-of-two-integers/sum-of-two-integers.js)||Easy|
 |372|[super-pow](https://leetcode.com/problems/super-pow)|||Medium|
 |373|[find-k-pairs-with-smallest-sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums)|||Medium|
 |374|[guess-number-higher-or-lower](https://leetcode.com/problems/guess-number-higher-or-lower)||[:memo:](https://leetcode.com/articles/guess-number-higher-or-lower/)|Easy|
@@ -385,7 +385,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |384|[shuffle-an-array](https://leetcode.com/problems/shuffle-an-array)||[:memo:](https://leetcode.com/articles/shuffle-an-array/)|Medium|
 |385|[mini-parser](https://leetcode.com/problems/mini-parser)|||Medium|
 |386|[lexicographical-numbers](https://leetcode.com/problems/lexicographical-numbers)|||Medium|
-|387|[first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string)||[:memo:](https://leetcode.com/articles/first-unique-character-in-a-string/)|Easy|
+|387|[first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string)|[Javascript](https://github.com/agileup/leetcode/blob/master/solutions/0387-first-unique-character-in-a-string/first-unique-character-in-a-string.js)|[:memo:](https://leetcode.com/articles/first-unique-character-in-a-string/)|Easy|
 |388|[longest-absolute-file-path](https://leetcode.com/problems/longest-absolute-file-path)|||Medium|
 |389|[find-the-difference](https://leetcode.com/problems/find-the-difference)|||Easy|
 |390|[elimination-game](https://leetcode.com/problems/elimination-game)|||Medium|
@@ -400,7 +400,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |399|[evaluate-division](https://leetcode.com/problems/evaluate-division)|||Medium|
 |400|[nth-digit](https://leetcode.com/problems/nth-digit)|||Medium|
 |401|[binary-watch](https://leetcode.com/problems/binary-watch)|||Easy|
-|402|[remove-k-digits](https://leetcode.com/problems/remove-k-digits)|||Medium|
+|402|[remove-k-digits](https://leetcode.com/problems/remove-k-digits)||[:memo:](https://leetcode.com/articles/remove-k-digits/)|Medium|
 |403|[frog-jump](https://leetcode.com/problems/frog-jump)||[:memo:](https://leetcode.com/articles/frog-jump/)|Hard|
 |404|[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves)|||Easy|
 |405|[convert-a-number-to-hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)|||Easy|
@@ -675,7 +675,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |736|[parse-lisp-expression](https://leetcode.com/problems/parse-lisp-expression)||[:memo:](https://leetcode.com/articles/parse-lisp-expression/)|Hard|
 |737|[sentence-similarity-ii](https://leetcode.com/problems/sentence-similarity-ii)|:lock:|[:memo:](https://leetcode.com/articles/sentence-similarity-ii/)|Medium|
 |738|[monotone-increasing-digits](https://leetcode.com/problems/monotone-increasing-digits)||[:memo:](https://leetcode.com/articles/monotone-increasing-digits/)|Medium|
-|739|[daily-temperatures](https://leetcode.com/problems/daily-temperatures)||[:memo:](https://leetcode.com/articles/daily-temperatures/)|Medium|
+|739|[daily-temperatures](https://leetcode.com/problems/daily-temperatures)|[Javascript](https://github.com/agileup/leetcode/blob/master/solutions/0739-daily-temperatures/daily-temperatures.js)|[:memo:](https://leetcode.com/articles/daily-temperatures/)|Medium|
 |740|[delete-and-earn](https://leetcode.com/problems/delete-and-earn)||[:memo:](https://leetcode.com/articles/delete-and-earn/)|Medium|
 |741|[cherry-pickup](https://leetcode.com/problems/cherry-pickup)||[:memo:](https://leetcode.com/articles/cherry-pickup/)|Hard|
 |742|[to-lower-case](https://leetcode.com/problems/to-lower-case)|||Easy|
@@ -719,10 +719,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |780|[max-chunks-to-make-sorted](https://leetcode.com/problems/max-chunks-to-make-sorted)||[:memo:](https://leetcode.com/articles/max-chunks-to-make-sorted-i/)|Medium|
 |781|[basic-calculator-iv](https://leetcode.com/problems/basic-calculator-iv)||[:memo:](https://leetcode.com/articles/basic-calculator-iv/)|Hard|
 |782|[jewels-and-stones](https://leetcode.com/problems/jewels-and-stones)||[:memo:](https://leetcode.com/articles/jewels-and-stones/)|Easy|
-|783|[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|||Easy|
+|783|[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree)||[:memo:](https://leetcode.com/articles/search-in-a-bst/)|Easy|
 |784|[insert-into-a-binary-search-tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)||[:memo:](https://leetcode.com/articles/insert-into-a-bst/)|Medium|
 |785|[basic-calculator-iii](https://leetcode.com/problems/basic-calculator-iii)|:lock:||Hard|
-|786|[search-in-a-sorted-array-of-unknown-size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size)|:lock:||Medium|
+|786|[search-in-a-sorted-array-of-unknown-size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size)|:lock:|[:memo:](https://leetcode.com/articles/search-in-a-sorted-array-of-unknown-size/)|Medium|
 |787|[sliding-puzzle](https://leetcode.com/problems/sliding-puzzle)||[:memo:](https://leetcode.com/articles/sliding-puzzle/)|Hard|
 |788|[minimize-max-distance-to-gas-station](https://leetcode.com/problems/minimize-max-distance-to-gas-station)|:lock:|[:memo:](https://leetcode.com/articles/minimize-max-distance-to-gas-station/)|Hard|
 |789|[kth-largest-element-in-a-stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)|||Easy|
@@ -902,7 +902,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |971|[shortest-bridge](https://leetcode.com/problems/shortest-bridge)||[:memo:](https://leetcode.com/articles/shortest-bridge/)|Medium|
 |972|[knight-dialer](https://leetcode.com/problems/knight-dialer)||[:memo:](https://leetcode.com/articles/knight-dialer/)|Medium|
 |973|[stamping-the-sequence](https://leetcode.com/problems/stamping-the-sequence)||[:memo:](https://leetcode.com/articles/stamping-the-sequence/)|Hard|
-|974|[reorder-log-files](https://leetcode.com/problems/reorder-log-files)||[:memo:](https://leetcode.com/articles/reorder-log-files/)|Easy|
+|974|[reorder-data-in-log-files](https://leetcode.com/problems/reorder-data-in-log-files)||[:memo:](https://leetcode.com/articles/reorder-log-files/)|Easy|
 |975|[range-sum-of-bst](https://leetcode.com/problems/range-sum-of-bst)||[:memo:](https://leetcode.com/articles/range-sum-of-bst/)|Easy|
 |976|[minimum-area-rectangle](https://leetcode.com/problems/minimum-area-rectangle)||[:memo:](https://leetcode.com/articles/minimum-area-rectangle/)|Medium|
 |977|[distinct-subsequences-ii](https://leetcode.com/problems/distinct-subsequences-ii)||[:memo:](https://leetcode.com/articles/distinct-subsequences-ii/)|Hard|
@@ -1038,7 +1038,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1113|[moving-stones-until-consecutive-ii](https://leetcode.com/problems/moving-stones-until-consecutive-ii)|||Medium|
 |1114|[binary-search-tree-to-greater-sum-tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|||Medium|
 |1115|[valid-boomerang](https://leetcode.com/problems/valid-boomerang)|||Easy|
-|1116|[maximum-level-sum-of-a-binary-tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)|||Medium|
+|1116|[maximum-level-sum-of-a-binary-tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/maximum-level-sum-of-a-binary-tree/)|Medium|
 |1117|[as-far-from-land-as-possible](https://leetcode.com/problems/as-far-from-land-as-possible)|||Medium|
 |1118|[divide-array-into-increasing-sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences)|:lock:||Hard|
 |1119|[robot-bounded-in-circle](https://leetcode.com/problems/robot-bounded-in-circle)|||Medium|
@@ -1053,20 +1053,28 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1128|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)||[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string/)|Easy|
 |1129|[longest-string-chain](https://leetcode.com/problems/longest-string-chain)|||Medium|
 |1130|[last-stone-weight-ii](https://leetcode.com/problems/last-stone-weight-ii)|||Medium|
+|1131|[count-substrings-with-only-one-distinct-letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter)|:lock:||Easy|
+|1132|[before-and-after-puzzle](https://leetcode.com/problems/before-and-after-puzzle)|:lock:||Medium|
 |1133|[last-substring-in-lexicographical-order](https://leetcode.com/problems/last-substring-in-lexicographical-order)|||Hard|
+|1134|[shortest-distance-to-target-color](https://leetcode.com/problems/shortest-distance-to-target-color)|:lock:||Medium|
 |1137|[height-checker](https://leetcode.com/problems/height-checker)|||Easy|
 |1138|[grumpy-bookstore-owner](https://leetcode.com/problems/grumpy-bookstore-owner)|||Medium|
 |1139|[previous-permutation-with-one-swap](https://leetcode.com/problems/previous-permutation-with-one-swap)|||Medium|
 |1140|[distant-barcodes](https://leetcode.com/problems/distant-barcodes)|||Medium|
+|1141|[how-many-apples-can-you-put-into-the-basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket)|:lock:||Easy|
+|1142|[minimum-knight-moves](https://leetcode.com/problems/minimum-knight-moves)|:lock:||Medium|
+|1143|[find-smallest-common-element-in-all-rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows)|:lock:||Medium|
 |1144|[optimize-water-distribution-in-a-village](https://leetcode.com/problems/optimize-water-distribution-in-a-village)|:lock:||Hard|
 |1145|[number-of-submatrices-that-sum-to-target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target)|||Hard|
 |1146|[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)|||Easy|
 |1147|[flip-columns-for-maximum-number-of-equal-rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows)|||Medium|
 |1148|[adding-two-negabinary-numbers](https://leetcode.com/problems/adding-two-negabinary-numbers)|||Medium|
+|1152|[maximum-number-of-ones](https://leetcode.com/problems/maximum-number-of-ones)|:lock:||Hard|
 |1156|[occurrences-after-bigram](https://leetcode.com/problems/occurrences-after-bigram)|||Easy|
 |1157|[insufficient-nodes-in-root-to-leaf-paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths)|||Medium|
 |1159|[smallest-subsequence-of-distinct-characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters)|||Medium|
 |1160|[letter-tile-possibilities](https://leetcode.com/problems/letter-tile-possibilities)|||Medium|
+|1167|[minimum-time-to-build-blocks](https://leetcode.com/problems/minimum-time-to-build-blocks)|:lock:||Hard|
 |1168|[duplicate-zeros](https://leetcode.com/problems/duplicate-zeros)|||Easy|
 |1169|[largest-values-from-labels](https://leetcode.com/problems/largest-values-from-labels)|||Medium|
 |1170|[shortest-common-supersequence](https://leetcode.com/problems/shortest-common-supersequence)|||Hard|
@@ -1108,3 +1116,19 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1270|[dinner-plate-stacks](https://leetcode.com/problems/dinner-plate-stacks)|||Hard|
 |1272|[invalid-transactions](https://leetcode.com/problems/invalid-transactions)|||Medium|
 |1273|[compare-strings-by-frequency-of-the-smallest-character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character)|||Easy|
+|1279|[prime-arrangements](https://leetcode.com/problems/prime-arrangements)|||Easy|
+|1280|[diet-plan-performance](https://leetcode.com/problems/diet-plan-performance)|:lock:||Easy|
+|1281|[can-make-palindrome-from-substring](https://leetcode.com/problems/can-make-palindrome-from-substring)|||Medium|
+|1282|[number-of-valid-words-for-each-puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle)|||Hard|
+|1287|[distance-between-bus-stops](https://leetcode.com/problems/distance-between-bus-stops)|||Easy|
+|1288|[maximum-subarray-sum-with-one-deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion)|||Medium|
+|1289|[day-of-the-week](https://leetcode.com/problems/day-of-the-week)|||Easy|
+|1290|[make-array-strictly-increasing](https://leetcode.com/problems/make-array-strictly-increasing)|||Hard|
+|1297|[maximum-number-of-balloons](https://leetcode.com/problems/maximum-number-of-balloons)|||Easy|
+|1298|[reverse-substrings-between-each-pair-of-parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses)|||Medium|
+|1299|[k-concatenation-maximum-sum](https://leetcode.com/problems/k-concatenation-maximum-sum)|||Medium|
+|1300|[critical-connections-in-a-network](https://leetcode.com/problems/critical-connections-in-a-network)|||Hard|
+|1306|[minimum-absolute-difference](https://leetcode.com/problems/minimum-absolute-difference)|||Easy|
+|1307|[ugly-number-iii](https://leetcode.com/problems/ugly-number-iii)|||Medium|
+|1308|[smallest-string-with-swaps](https://leetcode.com/problems/smallest-string-with-swaps)|||Medium|
+|1309|[sort-items-by-groups-respecting-dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies)|||Hard|
